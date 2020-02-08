@@ -6,7 +6,6 @@ import com.mojang.authlib.GameProfile;
 
 import clientname.gui.hud.ScreenPosition;
 import clientname.mods.ModDraggable;
-import clientname.utils.PlayerRenderUtil;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.inventory.GuiInventory;
 import net.minecraft.entity.EntityLivingBase;
