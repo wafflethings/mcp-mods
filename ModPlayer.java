@@ -67,7 +67,7 @@ public class ModPlayer extends ModDraggable{
 		}
 		
 		if (modeCrouch == "down") {
-			stabilisation = 2;
+			stabilisation = 0;
 		}
 		
 		if (modeCrouch == "up") {
