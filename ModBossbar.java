@@ -20,6 +20,18 @@ import net.minecraft.entity.boss.BossStatus;
 
 public class ModBossbar extends ModDraggable{
 
+	/*
+	 *█▀▄▀█ █▀▀█ █▀▀▄ █▀▀   █▀▀▄ █░░█   █░░░█ █▀▀█ █▀▀ █▀▀ █░░ █▀▀ █
+	 *█░▀░█ █▄▄█ █░░█ █▀▀   █▀▀▄ █▄▄█   █▄█▄█ █▄▄█ █▀▀ █▀▀ █░░ █▀▀ ▀
+	 *▀░░░▀ ▀░░▀ ▀▀▀░ ▀▀▀   ▀▀▀░ ▄▄▄█   ░▀░▀░ ▀░░▀ ▀░░ ▀░░ ▀▀▀ ▀▀▀ ▄
+	 *
+	 * Please credit. Although I can't make you do it, it'd be nice.
+	 *         The save and load methods are commented out,
+	 *                 so it works with FileIO.
+	 *              Just add them back if you want.
+	 * It might error when you save this class, just press save as UTF-8.
+	 */
+	
 	protected float zLevelFloat;
 	
 	@Override
