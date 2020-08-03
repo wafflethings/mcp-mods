@@ -1,12 +1,10 @@
-package club.wafl.client.mods.impl;
+package clientname.mods.impl;
 
 import java.util.UUID;
-
 import com.mojang.authlib.GameProfile;
-
-import club.wafl.client.gui.hud.ScreenPosition;
-import club.wafl.client.mods.ModDraggable;
-import club.wafl.client.utils.PlayerRenderUtil;
+import clientname.gui.hud.ScreenPosition;
+import clientname.mods.ModDraggable;
+import clientname.utils.PlayerRenderUtil;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.FontRenderer;
 import net.minecraft.client.gui.Gui;
