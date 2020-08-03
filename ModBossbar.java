@@ -127,4 +127,14 @@ public class ModBossbar extends ModDraggable{
     {
         return this.mc.fontRendererObj;
     }
+	
+	//@Override
+		//public void save(ScreenPosition pos) {
+		//	this.pos = pos;
+		//}
+
+		//@Override
+		//public ScreenPosition load() {
+		//	return pos;
+		//}
 }
