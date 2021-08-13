@@ -1,1 +1,1 @@
-really bad MCP mods from when I used to dev minecraft clients
+minecraft client mcp mods based on egold555's tutorial, code is terrible but people still use these so it's staying up
