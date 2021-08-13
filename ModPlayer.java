@@ -11,28 +11,6 @@ import net.minecraft.client.gui.inventory.GuiInventory;
 import net.minecraft.entity.EntityLivingBase;
 
 public class ModPlayer extends ModDraggable{
-
-	/*
-	 *█▀▄▀█ █▀▀█ █▀▀▄ █▀▀   █▀▀▄ █░░█   █░░░█ █▀▀█ █▀▀ █▀▀ █░░ █▀▀ █
-	 *█░▀░█ █▄▄█ █░░█ █▀▀   █▀▀▄ █▄▄█   █▄█▄█ █▄▄█ █▀▀ █▀▀ █░░ █▀▀ ▀
-	 *▀░░░▀ ▀░░▀ ▀▀▀░ ▀▀▀   ▀▀▀░ ▄▄▄█   ░▀░▀░ ▀░░▀ ▀░░ ▀░░ ▀▀▀ ▀▀▀ ▄
-	 *
-	 *                    Make sure to credit.
-	 *                    
-	 *                    
-	 *                    
-	 *            		 Leave this in the code.
-	 *           And add my Github user to the credits!
-	 *           (the-garbage-which-belongs-to-waffle)
-	 *              
-	 *            It might error if you try save with this.
-	 *                 Simply press 'Save As UTF-8!'
-	 *                 
-	 *         Please note; the save and load methods are missing.
-	 * I have commented them out so it works with the .json saving tutorial.
-	 *    
-	 *           Feel free to add them back! They're at the bottom.
-	 */
 	
 	public String modeCrouch = "up";
 	/*
